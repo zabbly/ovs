@@ -87,7 +87,10 @@ EXTRA_DIST = \
 	.ci/windows-prepare.sh \
 	.cirrus.yml \
 	.editorconfig \
-	.github/workflows/build-and-test.yml \
+	.github.orig/workflows/build-and-test.yml \
+	.github/FUNDING.yml \
+	.github/workflows/builds.yml \
+	.github/workflows/commits.yml \
 	.readthedocs.yaml \
 	appveyor.yml \
 	boot.sh \
